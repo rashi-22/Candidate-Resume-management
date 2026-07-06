@@ -1,9 +1,9 @@
-# ├── backend/          # NestJS application
-# └── frontend/         # React application
+├── backend/          # NestJS application
+└── frontend/         # React application
 
-# cd backend
+cd backend
 
-# npm install
+npm install
 
 # Server Port configuration
 PORT=3000
